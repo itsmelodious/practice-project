@@ -1,4 +1,4 @@
-# practice-project
+# Final Project
 Practice project for CSSI
 
  * Camila - November 15
