@@ -1,3 +1,6 @@
+# project
+Practice project for CSSI
+
 # I'm not creative enough for this
 # Final Project
 
