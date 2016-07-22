@@ -1,4 +1,4 @@
-# practice-project
+# I'm not creative enough for this
 Practice project for CSSI
 
  * Camila - November 15
